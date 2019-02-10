@@ -3,7 +3,7 @@ By Froyo Tam
 
 
 ## Specimen
-![GIF IMAGE](https://github.com/googlefonts/blotter-vf/blob/master/docs/blotter_froyotam_preview.png)
+![GIF IMAGE](https://github.com/eliheuer/blotter-vf/blob/master/docs/blotter_froyotam_preview.png)
 
 ## Build Instructions
 The fonts in this repo were built with the following command run from the repo root directory:

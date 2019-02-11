@@ -8,7 +8,7 @@ By Froyo Tam
 ## Build Instructions
 The fonts in this repo were built with the following command run from the repo root directory:
 ```
-python3 sources/BUILD.py --googlefonts ~/Google/fonts/ofl/blotter --static --fontbakery --fixnonhinting
+python3 sources/BUILD.py --static --fontbakery --fixnonhinting
 ```
 
 ## License

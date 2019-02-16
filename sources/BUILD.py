@@ -110,12 +110,12 @@ def intro():
     """
     Gives basic script info.
     """
-    printG("#    # #####                    #####    ################")
-    printG("#    # #                        #   #    #   ##         #")
-    printG(" #  #  ####                      #   #  #   # #   #######")
-    printG(" #  #  #     <---------------->  #    ##    # #      #")
-    printG("  ##   #                          #        #  #   ####")
-    printG("  ##   #                          ##########  #####")
+    printG("#    # #####        #####    ################")
+    printG("#    # #            #   #    #   ##         #")
+    printG(" #  #  ####          #   #  #   # #   #######")
+    printG(" #  #  #     <---->  #    ##    # #      #")
+    printG("  ##   #              #        #  #   ####")
+    printG("  ##   #              ##########  #####")
     print("\n**** Starting variable font build script:")
     print("     [+]", time.ctime())
     printG("    [!] Done")
@@ -194,7 +194,6 @@ def run_fontmake_variable():
             "fontmake \
                       -g sources/%s.glyphs \
                       -o variable \
-                      --verbose DEBUG \
                       --output-path fonts/%s-VF.ttf"
             % (source, source),
             shell=True,
@@ -214,7 +213,7 @@ def run_fontmake_static():
             "fontmake \
                       -g sources/%s.glyphs \
                       -o ttf \
-                      --keep-overlaps -i --verbose DEBUG"
+                      --keep-overlaps -i"
             % (source),
             shell=True,
         )

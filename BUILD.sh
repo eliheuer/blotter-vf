@@ -1,2 +1,2 @@
 #!/bin/sh
-python3 sources/BUILD.py --fontbakery --static --fixnonhinting
+python3 sources/BUILD.py --fixnonhinting

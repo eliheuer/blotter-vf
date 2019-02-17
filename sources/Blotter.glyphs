@@ -1,5 +1,5 @@
 {
-.appVersion = "1212";
+.appVersion = "1213";
 DisplayStrings = (
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 );
@@ -9888,6 +9888,146 @@ width = 1230;
 );
 note = Z;
 unicode = 007A;
+},
+{
+glyphname = zero;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0030;
+},
+{
+glyphname = one;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0031;
+},
+{
+glyphname = two;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0032;
+},
+{
+glyphname = three;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0033;
+},
+{
+glyphname = four;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0034;
+},
+{
+glyphname = five;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0035;
+},
+{
+glyphname = six;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0036;
+},
+{
+glyphname = seven;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0037;
+},
+{
+glyphname = eight;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0038;
+},
+{
+glyphname = nine;
+layers = (
+{
+layerId = "0BD0D975-F19E-4ACA-9A31-41147C737F0B";
+width = 1200;
+},
+{
+layerId = "BCBE6FB0-8B5B-4728-88BC-6AD881489723";
+width = 1200;
+}
+);
+unicode = 0039;
 },
 {
 color = 4;

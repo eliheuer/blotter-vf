@@ -5,6 +5,7 @@
     font-family: 'Blotter-VF';
     src: url('fonts/Blotter-VF.ttf');
     format("truetype");
+    /*font-weight: bold;*/
     font-weight: bold;
 }
 
@@ -150,7 +151,7 @@ hr {
 }
 
 .variable {
-    font-family: 'Kreon-VF';
+    font-family: 'Blotter-VF';
     --wght: 300;
     font-variation-settings: 'wght' var(--wght);
 }

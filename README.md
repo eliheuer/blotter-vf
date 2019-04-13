@@ -1,19 +1,16 @@
 # Blotter
 By Froyo Tam
 
-
-## Specimen
 ![GIF IMAGE](https://github.com/eliheuer/blotter-vf/blob/master/docs/blotter_froyotam_preview.png)
 
 ## Build Instructions
-The fonts in this repo were built with the following command run from the repo root directory:
 ```
 python3 sources/BUILD.py --static --fontbakery --fixnonhinting
 ```
 
 ## License
-Kreon is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>). 
-To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/theleagueof/orbitron/blob/master/OFL.txt)
+Blotter is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>). 
+To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/eliheuer/blotter-vf/blob/master/OFL.txt)
 
 ## Downloading Font Files (TTF)
 Find font files in the `fonts` directory of this repo.
